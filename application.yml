@@ -1,7 +1,3 @@
-my:
-  gretting: hello world
-  list: 1,2,3
-
 db:
   connections: "{username:'test-iabur',password:'rahman'}"
   host: 12.23.434
